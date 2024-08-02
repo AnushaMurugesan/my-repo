@@ -1,0 +1,64 @@
+{
+  "choices": [
+    {
+      "option": "Choice 1",
+      "value": "choice1"
+    },
+    {
+      "option": "Choice 2",
+      "value": "choice2"
+    },
+    {
+      "option": "Choice 3",
+      "value": "choice3"
+    },
+    {
+      "option": "Choice 4",
+      "value": "choice4"
+    },
+    {
+      "option": "Choice 5",
+      "value": "choice5"
+    },
+    {
+      "option": "Choice 6",
+      "value": "choice6"
+    },
+    {
+      "option": "Choice 7",
+      "value": "choice7"
+    },
+    {
+      "option": "Choice 8",
+      "value": "choice8"
+    },
+    {
+      "option": "Choice 9",
+      "value": "choice9"
+    },
+    {
+      "option": "Choice 10",
+      "value": "choice10"
+    },
+    {
+      "option": "Choice 11",
+      "value": "choice11"
+    },
+    {
+      "option": "Choice 12",
+      "value": "choice12"
+    },
+    {
+      "option": "Choice 13",
+      "value": "choice13"
+    },
+    {
+      "option": "Choice 14",
+      "value": "choice14"
+    },
+    {
+      "option": "Choice 15",
+      "value": "choice15"
+    }
+  ]
+}
